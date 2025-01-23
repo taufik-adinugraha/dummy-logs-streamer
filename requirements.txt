@@ -1,0 +1,4 @@
+Faker
+boto3
+pandas
+pyarrow
