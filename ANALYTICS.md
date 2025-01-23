@@ -43,12 +43,12 @@ This guide covers sample insights and queries for a log analytics dashboard usin
 - **Value:** Monitor error frequency
 
 ### 2.3 Top 10 Users by Activity
-- **Visualization:** Bar Chart
+- **Visualization:** Table
 - **Purpose:** Identify most active users
 - **Value:** Detect usage patterns or suspicious behavior
 
 ### 2.4 Top 10 IPs by Requests
-- **Visualization:** Bar Chart
+- **Visualization:** Table
 - **Purpose:** Track frequent API users
 - **Value:** Identify potential abuse or heavy users
 
